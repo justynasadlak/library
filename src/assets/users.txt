@@ -1,0 +1,2 @@
+0;Jan;Nowak;
+1;Adam;Kowalski;

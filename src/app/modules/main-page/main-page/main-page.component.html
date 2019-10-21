@@ -1,0 +1,6 @@
+<div *ngFor="let book of books">
+      <p>{{ book[1] }}</p>
+      <p *ngIf="isBookAvailable(book);">Niedostępna</p>
+      <button (click)="onBook(book)">Wypożycz</button>
+      <button (click)="onGiveBookBack(book)">Zwróć</button>
+</div>

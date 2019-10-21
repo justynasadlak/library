@@ -1,0 +1,2 @@
+0;to jest tytuł;to jest autor;to jest rok;true
+1;to jest inny tytuł;to jest inny autor;to jest inny rok;
